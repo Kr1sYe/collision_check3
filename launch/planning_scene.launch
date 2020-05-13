@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="planning_scene" pkg="planning_scene" type="planning_scene" respawn="false" output="screen">
+  </node>
+  
+</launch>
